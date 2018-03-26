@@ -4,7 +4,7 @@
 place holder text!
 
 ## Resources
-more placeholder text
+Maria's palceholder text
 
 ## Description of Files and Directories
 
